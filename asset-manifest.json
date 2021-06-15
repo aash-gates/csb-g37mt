@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://aash-gates.github.io/csb-g37mt/static/css/main.ce9d4054.chunk.css",
+    "main.js": "https://aash-gates.github.io/csb-g37mt/static/js/main.59e0f045.chunk.js",
+    "main.js.map": "https://aash-gates.github.io/csb-g37mt/static/js/main.59e0f045.chunk.js.map",
+    "runtime-main.js": "https://aash-gates.github.io/csb-g37mt/static/js/runtime-main.f0deb346.js",
+    "runtime-main.js.map": "https://aash-gates.github.io/csb-g37mt/static/js/runtime-main.f0deb346.js.map",
+    "static/js/2.6eaac070.chunk.js": "https://aash-gates.github.io/csb-g37mt/static/js/2.6eaac070.chunk.js",
+    "static/js/2.6eaac070.chunk.js.map": "https://aash-gates.github.io/csb-g37mt/static/js/2.6eaac070.chunk.js.map",
+    "index.html": "https://aash-gates.github.io/csb-g37mt/index.html",
+    "precache-manifest.c319514b00ca056fcf7e60325545bfd1.js": "https://aash-gates.github.io/csb-g37mt/precache-manifest.c319514b00ca056fcf7e60325545bfd1.js",
+    "service-worker.js": "https://aash-gates.github.io/csb-g37mt/service-worker.js",
+    "static/css/main.ce9d4054.chunk.css.map": "https://aash-gates.github.io/csb-g37mt/static/css/main.ce9d4054.chunk.css.map",
+    "static/js/2.6eaac070.chunk.js.LICENSE.txt": "https://aash-gates.github.io/csb-g37mt/static/js/2.6eaac070.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0deb346.js",
+    "static/js/2.6eaac070.chunk.js",
+    "static/css/main.ce9d4054.chunk.css",
+    "static/js/main.59e0f045.chunk.js"
+  ]
+}
